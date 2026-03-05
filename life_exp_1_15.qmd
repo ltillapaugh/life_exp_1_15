@@ -19,4 +19,8 @@ gapminder::gapminder_unfiltered  |>
   sumdat
 ```
 
-Adding text
+```{r}
+glimpse(sumdat)
+```
+
+Here is a new change to the file.
